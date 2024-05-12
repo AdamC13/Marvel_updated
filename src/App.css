@@ -1,0 +1,14 @@
+
+
+/* HomePage Styles */
+
+.home-page{
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-position: center;
+  text-align: center; 
+  
+}
+
